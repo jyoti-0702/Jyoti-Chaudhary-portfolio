@@ -23,12 +23,4 @@ https://jyoti-0702.github.io/Jyoti-Chaudhary-portfolio/
 React.js e-commerce website with cart, wishlist, and search  
 GitHub: https://github.com/jyoti-0702/E-commerce-React-App
 
-## Contact Me
 
-- Email: jyotiichaudhary077@gmail.com
-- GitHub: https://github.com/jyoti-0702
-- LinkedIn: https://www.linkedin.com/in/jyoti-chaudhary-a020b7327/
-
----
-
-Made by Jyoti
